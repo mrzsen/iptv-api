@@ -3,9 +3,17 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
+# 国内直连 - zbds 直播源 (IPv4 TXT)
+https://live.zbds.top/tv/iptv4.txt
 
+# 国内直连 - zbds 直播源 (IPv4 M3U，含台标EPG)
+https://live.zbds.top/tv/iptv4.m3u
 
+# 全球公开源 - iptv-org
+https://iptv-org.github.io/iptv/index.m3u
 
+# 聚合整理源 - cs3306/IPTV-Sources
+https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
