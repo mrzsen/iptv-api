@@ -3,17 +3,45 @@
 # This is a list of subscription sources, with one subscription address per line
 # Supports setting UA: https://xxx.com/subscribe.m3u UA="xxx"
 
-# 国内直连 - zbds 直播源 (IPv4 TXT)
+# ---- 国内直连源 ----
+# zbds 直播源 (IPv4 TXT)
 https://live.zbds.top/tv/iptv4.txt
-
-# 国内直连 - zbds 直播源 (IPv4 M3U，含台标EPG)
+# zbds 直播源 (IPv4 M3U，含台标EPG)
 https://live.zbds.top/tv/iptv4.m3u
 
-# 全球公开源 - iptv-org
+# ---- 综合聚合源 ----
+# iptv-org 全球公开源
 https://iptv-org.github.io/iptv/index.m3u
-
-# 聚合整理源 - cs3306/IPTV-Sources
+# cs3306 聚合源
 https://raw.githubusercontent.com/cs3306/IPTV-Sources/main/data/output/iptv_collection.m3u
+# Guovin 官方 iptv-api 源（央视卫视齐全）
+https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u
+# BigBigGrandG 大聚合源
+https://raw.githubusercontent.com/BigBigGrandG/IPTV-URL/release/Gather.m3u
+# zbefine 源
+https://raw.githubusercontent.com/zbefine/iptv/main/iptv.m3u
+
+# ---- 国内频道源 ----
+# BurningC4 国内源 (IPv4)
+https://raw.githubusercontent.com/BurningC4/Chinese-IPTV/master/TV-IPV4.m3u
+# Kimentanm/aptv 源
+https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
+# wwb521 源
+https://raw.githubusercontent.com/wwb521/live/main/tv.m3u
+# YanG 集合源
+https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
+
+# ---- IPv6 源 ----
+# fanmingming IPv6
+https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+# YueChan 直播源
+https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+
+# ---- 港澳台源 ----
+# 香港频道
+https://epg.pw/test_channels_hong_kong.m3u
+# 台湾频道
+https://epg.pw/test_channels_taiwan.m3u
 
 [WHITELIST]
 # 以下是订阅源的白名单，白名单内的订阅源获取的接口将不会参与测速，始终保留至结果最前。
