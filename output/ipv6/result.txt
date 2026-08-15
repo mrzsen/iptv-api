@@ -1,0 +1,15 @@
+🕘️更新时间,#genre#
+2026-08-15 09:43:31,https://live.eac-news.com/CCTV/streams/cctv6.m3u8$订阅源
+
+📺央视频道,#genre#
+CCTV-6,https://live.eac-news.com/CCTV/streams/cctv6.m3u8$订阅源
+CCTV-9,https://xykt-fix.github.io/Y77.m3u8$订阅源
+CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8$订阅源
+
+📡卫视频道,#genre#
+浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8$订阅源
+黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8$订阅源
+东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8$订阅源
+
+☘️广东频道,#genre#
+广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8$订阅源
