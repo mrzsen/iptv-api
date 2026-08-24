@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-24 03:01:02,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
+2026-08-25 03:01:05,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
@@ -112,9 +112,9 @@ now新闻,https://stream1.freetv.fun/9dec549cbac511cacca85d2e5738d965955eadcb5b4
 台视,rtmp://f13h.mine.nu:1935/sat/tv071
 台视,rtmp://f13h.mine.nu/sat/tv071
 台视,https://stream1.freetv.fun/5f1647f69faf035a2edf66cf6a0c119ea2ce317c155073f842dd4661b72cec9f.ctv
-中视,https://stream1.freetv.fun/b9b0628b2474fa439dc957ecb7ae8723067c0aea44c287ada1a509143571d9dd.ctv
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 中视,rtmp://f13h.mine.nu/sat/tv091
+中视,https://stream1.freetv.fun/b627cf4f2eb013acefa14cf431cfe770e0f6992c5061c6d1bdf9b3668790e2ef.ctv
 华视,rtmp://f13h.mine.nu/sat/tv111
 华视,https://stream1.freetv.fun/9e49fa5baea048e3f87533024768e5f57910e07663f13efd1ee7d570032f118c.ctv
 华视,https://stream1.freetv.fun/4ea88a37de2bb1a69fda2f631b257cb4f7fa912c7c999c151d2c4145db972489.ctv

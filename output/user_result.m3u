@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="http://192.168.22.236:8080/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-08-24 03:01:02
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🕘️更新时间",2026-08-25 03:01:05
 https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png" group-title="📺央视频道",CCTV-1
 https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
@@ -205,12 +205,12 @@ rtmp://f13h.mine.nu:1935/sat/tv071
 rtmp://f13h.mine.nu/sat/tv071
 #EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/09/29/20150929121750759037_14.jpg" group-title="🇹🇼台湾频道",台视
 https://stream1.freetv.fun/5f1647f69faf035a2edf66cf6a0c119ea2ce317c155073f842dd4661b72cec9f.ctv
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.pw/media/images/channel/2023/07/11/large/20230711221412936937_72.png" group-title="🇹🇼台湾频道",中视
-https://stream1.freetv.fun/b9b0628b2474fa439dc957ecb7ae8723067c0aea44c287ada1a509143571d9dd.ctv
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055838912553_80.png" group-title="🇹🇼台湾频道",中视
 rtmp://f13h.mine.nu:1935/sat/tv091
 #EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.pw/media/images/channel/2025/01/28/large/20250128055838912553_80.png" group-title="🇹🇼台湾频道",中视
 rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.pw/media/images/channel/2022/11/26/large/20221126214137329410_57.jpg" group-title="🇹🇼台湾频道",中视
+https://stream1.freetv.fun/b627cf4f2eb013acefa14cf431cfe770e0f6992c5061c6d1bdf9b3668790e2ef.ctv
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.pw/media/images/channel/2020/07/26/large/20200726143140379428_88.jpg" group-title="🇹🇼台湾频道",华视
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164257585081_80.png" group-title="🇹🇼台湾频道",华视
