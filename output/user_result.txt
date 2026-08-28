@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-28 03:03:10,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
+2026-08-29 03:01:15,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
@@ -8,8 +8,8 @@ CCTV-1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a
 CCTV-2,http://118.122.144.115:8888/newlive/live/hls/2/live.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 CCTV-4,http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
+CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-5,http://120.40.39.246:352/newlive/live/hls/5/live.m3u8
 CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
@@ -89,7 +89,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 🇭🇰港澳频道,#genre#
 翡翠台,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
-翡翠台,https://stream1.freetv.fun/829b7e0470319a0e8fff9a9cc0eccdf0f87d0785005387b2a9f38fd9c7cde69c.ctv
+翡翠台,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.ctv
 翡翠台,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv
 明珠台,https://stream1.freetv.fun/b49f11a7e68a76202daba76fb5c90eb8ef1c34d977c5e9eac0825112f74f87d3.m3u8
 无线新闻台,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.m3u8
@@ -99,23 +99,20 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 凤凰卫视,https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.m3u8
 凤凰卫视,https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.m3u8
 凤凰中文,https://stream1.freetv.fun/9af7ba5bbdf6641cf12253e1112bff185278bce6b4890b2cf8a38d8f3aa909bd.m3u8
-凤凰中文,https://stream1.freetv.fun/e0c859ca201f3d03836f51e08e68b5d21c2f94462c3bc7686058368b63bb6deb.ctv
-凤凰中文,https://stream1.freetv.fun/a46f52861e9ace633f2259316777ba8dbeeaffc6dc31608c64a6b0896cb10839.ctv
-凤凰资讯,https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.ctv
+凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 凤凰资讯,https://stream1.freetv.fun/55317db1dd958d493bc8a11eed6f260f7c0903ab196dbbb4b5bf379800ba397f.m3u8
 凤凰资讯,https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+VIUTV,https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.ctv
 VIUTV,http://r.jdshipin.com/vSJvl
 now新闻,https://stream1.freetv.fun/9dec549cbac511cacca85d2e5738d965955eadcb5b4fe5974ae97fdf4733ae72.ctv
 
 🇹🇼台湾频道,#genre#
 台视,rtmp://f13h.mine.nu:1935/sat/tv071
 台视,rtmp://f13h.mine.nu/sat/tv071
-台视,https://stream1.freetv.fun/5f1647f69faf035a2edf66cf6a0c119ea2ce317c155073f842dd4661b72cec9f.ctv
 中视,rtmp://f13h.mine.nu:1935/sat/tv091
 中视,rtmp://f13h.mine.nu/sat/tv091
 华视,rtmp://f13h.mine.nu/sat/tv111
-华视,https://stream1.freetv.fun/4ea88a37de2bb1a69fda2f631b257cb4f7fa912c7c999c151d2c4145db972489.ctv
-民视,https://stream1.freetv.fun/b075d8c2233a0f204f77aae2d3794b04b8959c740d0518df61c48d4a903c869d.ctv
 民视,rtmp://f13h.mine.nu/sat/tv051
 公视,https://stream1.freetv.fun/cbd5b3ed1c9bb24dc392181ade6213dcdbb374e660bd68a5f105a80bfd93e4b7.ctv
 TVBS,https://stream1.freetv.fun/a969d7787c96c8a7a9cf6f542343848dc7beb7475d548e093d53d2e9cde7d70b.m3u8
@@ -133,7 +130,6 @@ TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9
 寰宇新闻,https://stream1.freetv.fun/cc3ac399d86099e5a3206d38ac3738ad97285b606895947d3786fbcd544081fd.m3u8
 寰宇新闻,https://stream1.freetv.fun/d9e077d94c5ba3a10f9d1a26d5c1f3aa5d4d3f811e1f85120c5b742aaa506157.m3u8
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
-民视新闻,https://stream1.freetv.fun/a6dd48cff68c1da6ae33d7a2d962ab66d11a3791c0f133b0cd3bbbf99ea8b3c8.ctv
 民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
 🏅体育频道,#genre#
@@ -148,8 +144,8 @@ CCTV-6,http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 国家地理,http://88.212.15.19/live/ngc_hun/index.m3u8
 国家地理,http://88.212.15.19/live/test_ngc/playlist.m3u8
-BBC Earth,https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8
-BBC Earth,https://stream1.freetv.fun/24358f38712d187d2fd38cb6f4c48fa88543e025ac9a386899adec203cb10b0a.m3u8
+国家地理,https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 历史频道,http://88.212.15.19/live/test_history/playlist.m3u8
 历史频道,http://88.212.15.19/live/history_hun/index.m3u8
 
@@ -158,12 +154,13 @@ CCTV-14,http://120.40.39.246:352/newlive/live/hls/15/live.m3u8
 CCTV-14,http://74.91.26.218:82/live/cctv14hd.m3u8
 
 🌐国际频道,#genre#
-CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 CCTV-4,http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
+CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
-CCTV-4国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 CCTV-4国际,http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
+CCTV-4国际,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
 CCTV-4国际,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV-4美洲,https://stream1.freetv.fun/42076cf31ff4aa94aac8fe8c9c0637340d1774f8c14ad89a4c2020335dff968c.ctv
 CCTV-4美洲,https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4欧洲,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -182,8 +179,8 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 📰新闻频道,#genre#
 CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
-凤凰资讯,https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.ctv
 凤凰资讯,https://stream1.freetv.fun/55317db1dd958d493bc8a11eed6f260f7c0903ab196dbbb4b5bf379800ba397f.m3u8
 凤凰资讯,https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 
 📺数字电视,#genre#
