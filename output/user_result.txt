@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-09-06 03:01:04,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
+2026-09-07 03:01:08,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
-CCTV-1,https://stream1.freetv.fun/8b9180250b8f56c6f253c7e0c953e786165b655070fbed017fe00fc8690232db.m3u8
 CCTV-1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
+CCTV-1,https://stream1.freetv.fun/1ac2829498275b94069f38237608a409baf61852cd00057d2347d2fe05e8b91c.m3u8
 CCTV-2,http://118.122.144.115:8888/newlive/live/hls/2/live.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
