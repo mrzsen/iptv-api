@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-12 03:01:11,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
+2026-09-14 03:01:24,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
@@ -7,8 +7,8 @@ CCTV-1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a
 CCTV-1,https://stream1.freetv.fun/1ac2829498275b94069f38237608a409baf61852cd00057d2347d2fe05e8b91c.m3u8
 CCTV-2,http://118.122.144.115:8888/newlive/live/hls/2/live.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-4,http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
 CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+CCTV-4,http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
 CCTV-5,http://120.40.39.246:352/newlive/live/hls/5/live.m3u8
 CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV-6,http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
@@ -31,8 +31,8 @@ CCTV-17,http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&
 湖南卫视,http://118.122.144.115:8888/newlive/live/hls/30/live.m3u8
 北京卫视,http://1.190.240.47:9003/hls/3044/index.m3u8
 湖北卫视,http://118.122.144.115:8888/newlive/live/hls/36/live.m3u8
-黑龙江卫视,http://120.40.39.246:352/newlive/live/hls/38/live.m3u8
 黑龙江卫视,http://118.122.144.115:8888/newlive/live/hls/38/live.m3u8
+黑龙江卫视,http://120.40.39.246:352/newlive/live/hls/38/live.m3u8
 安徽卫视,http://118.122.144.115:8888/newlive/live/hls/40/live.m3u8
 重庆卫视,http://221.7.175.154:8445/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
 东方卫视,http://120.40.39.246:352/newlive/live/hls/29/live.m3u8
@@ -43,14 +43,14 @@ CCTV-17,http://221.7.175.154:8445/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&
 贵州卫视,http://221.7.175.154:8445/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
 贵州卫视,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
 海南卫视,http://1.190.240.47:9003/hls/3072/index.m3u8
-河北卫视,http://120.40.39.246:352/newlive/live/hls/33/live.m3u8
 河北卫视,http://118.122.144.115:8888/newlive/live/hls/33/live.m3u8
+河北卫视,http://120.40.39.246:352/newlive/live/hls/33/live.m3u8
 河北卫视,http://58.56.162.102:4466/newlive/live/hls/33/live.m3u8
 河南卫视,http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://221.7.175.154:8445/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
-江苏卫视,http://120.40.39.246:352/newlive/live/hls/31/live.m3u8
 江苏卫视,http://118.122.144.115:8888/newlive/live/hls/31/live.m3u8
+江苏卫视,http://120.40.39.246:352/newlive/live/hls/31/live.m3u8
 江西卫视,http://221.7.175.154:8445/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 辽宁卫视,http://221.7.175.154:8445/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
 内蒙古卫视,http://112.123.243.37:50085/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -101,8 +101,8 @@ now新闻,https://stream1.freetv.fun/9dec549cbac511cacca85d2e5738d965955eadcb5b4
 中视,https://stream1.freetv.fun/b627cf4f2eb013acefa14cf431cfe770e0f6992c5061c6d1bdf9b3668790e2ef.ctv
 中视,https://stream1.freetv.fun/ed411043e38ba394725443fb6bcac3188173bd1449fa90b01808cacd2488ccae.ctv
 华视,rtmp://f13h.mine.nu/sat/tv111
-华视,https://stream1.freetv.fun/9e49fa5baea048e3f87533024768e5f57910e07663f13efd1ee7d570032f118c.ctv
 华视,https://stream1.freetv.fun/314f2cb4817946086dc692b56f0c215b09aabbb8c8236279d6504baa2e0f411f.ctv
+华视,https://stream1.freetv.fun/9e49fa5baea048e3f87533024768e5f57910e07663f13efd1ee7d570032f118c.ctv
 民视,https://stream1.freetv.fun/0079988bc2d8480a6183499774a232fc11657753bcb7d97a8dee88b362c57815.ctv
 民视,https://stream1.freetv.fun/a371322b7c9e6a92b322f51e1b3d3948ac414988b725ac9233a77698725f3aac.ctv
 民视,rtmp://f13h.mine.nu/sat/tv051
@@ -117,9 +117,9 @@ TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9
 东森电影,https://stream1.freetv.fun/d3e4ac4a1216587cdcdd680d8ff720735c9fe324388e6e5592a64b61198066b6.ctv
 东森洋片,https://stream1.freetv.fun/3a70db5e300010238343b5c177f3de936f8e86a9907984f8874f1f508438d505.ctv
 三立新闻,https://stream1.freetv.fun/103cd30c02d26d164666911be0e4abda2a1cd5d8ef4c1592d45b2427e75961dc.m3u8
-中天新闻,https://stream1.freetv.fun/948c2cabd4d3cf054b90b03d4b9c43339fcd0d6b8e31bf9f4ee1e5e4f04c5c09.m3u8
+中天新闻,https://stream1.freetv.fun/ad27e7d3f096cb3d85f9819abfaedda53c6acc875a07645e67e6dcddffff4333.m3u8
 中天新闻,https://stream1.freetv.fun/15573ff43772cdbb44535d8129707a4a005c703eaa02a624b34b00b3b1e5bb97.m3u8
-中天新闻,https://stream1.freetv.fun/09a7bd02a1ebdc47fbdd8027d13909561a54137ba6dca325520aa0b4b042a821.m3u8
+中天新闻,https://stream1.freetv.fun/948c2cabd4d3cf054b90b03d4b9c43339fcd0d6b8e31bf9f4ee1e5e4f04c5c09.m3u8
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
 寰宇新闻,https://stream1.freetv.fun/5bc2192b68243b3b4682609d306db8f3d5b61cc875fe9c26702040e560911ed8.m3u8
 寰宇新闻,https://stream1.freetv.fun/cc3ac399d86099e5a3206d38ac3738ad97285b606895947d3786fbcd544081fd.m3u8
@@ -139,11 +139,9 @@ CCTV-6,http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
 
 🌍纪录片频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
-国家地理,https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 国家地理,http://88.212.15.19/live/test_ngc/playlist.m3u8
 国家地理,http://88.212.15.19/live/ngc_hun/index.m3u8
 BBC Earth,https://stream1.freetv.fun/24358f38712d187d2fd38cb6f4c48fa88543e025ac9a386899adec203cb10b0a.m3u8
-BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 历史频道,http://88.212.15.19/live/test_history/playlist.m3u8
 历史频道,http://88.212.15.19/live/history_hun/index.m3u8
 
