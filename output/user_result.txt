@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-15 03:00:55,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
+2026-09-16 03:01:40,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/00726b9a4f92d2b5b2fc01387ed44b83eeb4429f8dd7104eea9bc0ea482a425f.m3u8
@@ -8,8 +8,8 @@ CCTV-1,https://stream1.freetv.fun/1ac2829498275b94069f38237608a409baf61852cd0005
 CCTV-2,http://118.122.144.115:8888/newlive/live/hls/2/live.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
-CCTV-4,http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
 CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+CCTV-4,http://120.40.39.246:352/newlive/live/hls/4/live.m3u8
 CCTV-4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-5,http://120.40.39.246:352/newlive/live/hls/5/live.m3u8
 CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
@@ -150,9 +150,9 @@ CCTV-6,http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
 
 🌍纪录片频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
-国家地理,http://88.212.15.19/live/ngc_hun/index.m3u8
-国家地理,http://88.212.15.19/live/test_ngc/playlist.m3u8
 国家地理,https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+国家地理,http://88.212.15.19/live/test_ngc/playlist.m3u8
+国家地理,http://88.212.15.19/live/ngc_hun/index.m3u8
 BBC Earth,https://stream1.freetv.fun/24358f38712d187d2fd38cb6f4c48fa88543e025ac9a386899adec203cb10b0a.m3u8
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 历史频道,http://88.212.15.19/live/test_history/playlist.m3u8
