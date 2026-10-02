@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-02 03:01:01,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
+2026-10-03 03:00:55,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
@@ -171,7 +171,6 @@ CCTV-15,https://xykt-fix.github.io/play/a02e/index.m3u8
 
 📰新闻频道,#genre#
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
-CCTV-13,http://go.bkpcp.top/mg/cctv13
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 
 📺数字电视,#genre#
