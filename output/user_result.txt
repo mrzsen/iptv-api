@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-19 03:00:54,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
+2026-10-20 03:01:28,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
@@ -81,9 +81,9 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 深圳卫视,http://58.56.162.102:4466/newlive/live/hls/37/live.m3u8
 
 🇭🇰港澳频道,#genre#
+翡翠台,https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8
 翡翠台,https://stream1.freetv.fun/829b7e0470319a0e8fff9a9cc0eccdf0f87d0785005387b2a9f38fd9c7cde69c.ctv
 翡翠台,https://stream1.freetv.fun/2d6d5de01dfd6fdcaaf4fe4b5ab0188eb1849a91fee22cc73276e6737ce055a8.m3u8
-翡翠台,https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.m3u8
 明珠台,https://stream1.freetv.fun/f01424cd530f5eb131f82f42f3edfa3a90dd2af5aa0eb883de3c7f0289963bee.ctv
 无线新闻台,https://stream1.freetv.fun/afb8519f6f276c74e63a0b8ee0454563e51a306ab426f5cff8d31283c9202743.m3u8
 无线新闻台,https://stream1.freetv.fun/b9fc79702a33d75d0fa4c22a19341be1a7120d111c47d9e109566b9d42020383.m3u8
@@ -163,7 +163,6 @@ CCTV-4国际,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4美洲,https://stream1.freetv.fun/42076cf31ff4aa94aac8fe8c9c0637340d1774f8c14ad89a4c2020335dff968c.ctv
 CCTV-4欧洲,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 
