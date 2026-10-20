@@ -1,10 +1,10 @@
 🕘️更新时间,#genre#
-2026-10-20 03:01:28,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
+2026-10-21 03:01:26,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
+CCTV-1,https://stream1.freetv.fun/d61aa6b7302b43c9b1a30ebe8f085d7e892f6982c299c9f0d4e6eceec35396e2.m3u8
 CCTV-1,https://stream1.freetv.fun/54c591d441a3e38fa349334e4e8843501661ce712aa72c0c260ad2dca98c7212.m3u8
-CCTV-1,https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.m3u8
 CCTV-2,http://74.91.26.218:82/live/cctv2hd.m3u8
 CCTV-3,http://74.91.26.218:82/live/cctv3hd.m3u8
 CCTV-4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
@@ -21,8 +21,8 @@ CCTV-10,http://58.56.162.102:4466/newlive/live/hls/11/live.m3u8
 CCTV-10,http://74.91.26.218:82/live/cctv10hd.m3u8
 CCTV-11,http://120.40.39.246:352/newlive/live/hls/12/live.m3u8
 CCTV-11,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV-12,http://120.40.39.246:352/newlive/live/hls/13/live.m3u8
 CCTV-12,http://58.56.162.102:4466/newlive/live/hls/13/live.m3u8
+CCTV-12,http://120.40.39.246:352/newlive/live/hls/13/live.m3u8
 CCTV-12,http://74.91.26.218:82/live/cctv12hd.m3u8
 CCTV-13,http://74.91.26.218:82/live/cctv13hd.m3u8
 CCTV-14,http://120.40.39.246:352/newlive/live/hls/15/live.m3u8
@@ -50,8 +50,8 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 贵州卫视,http://118.122.144.115:8888/newlive/live/hls/39/live.m3u8
 海南卫视,http://1.190.240.47:9003/hls/3072/index.m3u8
 河北卫视,http://118.122.144.115:8888/newlive/live/hls/33/live.m3u8
-河北卫视,http://120.40.39.246:352/newlive/live/hls/33/live.m3u8
 河北卫视,http://58.56.162.102:4466/newlive/live/hls/33/live.m3u8
+河北卫视,http://120.40.39.246:352/newlive/live/hls/33/live.m3u8
 河南卫视,http://221.7.175.154:8445/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 吉林卫视,http://221.7.175.154:8445/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 江苏卫视,http://118.122.144.115:8888/newlive/live/hls/31/live.m3u8
@@ -113,7 +113,6 @@ TVBS新闻,https://stream1.freetv.fun/28a8e3a06a371a16e0f8d934015757c52c1dbbbef7
 TVBS新闻,https://stream1.freetv.fun/5bad1e2d485e59cb1ef7353889b99add71e736816a9b993d98ba670303c51367.m3u8
 TVBS新闻,https://stream1.freetv.fun/b9008aeb80dd41cc97f7006561fd5af645903c8fe9f44cb2e1e866c841842054.m3u8
 TVBS欢乐台,https://stream1.freetv.fun/db4fdb60646745d166ab4e98233c28544cae838caebb298399ed44df1b5c7b87.ctv
-东森新闻,https://stream1.freetv.fun/0b780d5b5f2fdb57d708e3ff8ed2ef52dd017f2fe48c7a5ed007859e6f936a18.m3u8
 东森新闻,https://stream1.freetv.fun/7c87d838783dd3b78602e013b57a03b913543fbabc109ee88d85a0b89bd7fff1.ctv
 东森电影,https://stream1.freetv.fun/6b8a5c6e5a8e4e580cdf8d06b234dc16e55d77589ca82e15dfaf2afabaeafbbd.ctv
 东森洋片,https://stream1.freetv.fun/370cab0cec03dfee84b4b9acdb92141b83e88fa04e4571824bb2153b55e69f5c.ctv
@@ -144,8 +143,6 @@ CCTV-6,http://58.56.162.102:4466/newlive/live/hls/7/live.m3u8
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
 国家地理,http://88.212.15.19/live/ngc_hun/index.m3u8
 BBC Earth,https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8
-BBC Earth,https://stream1.freetv.fun/24358f38712d187d2fd38cb6f4c48fa88543e025ac9a386899adec203cb10b0a.m3u8
-BBC Earth,http://57.128.231.171:8080/307/index.m3u8
 历史频道,http://88.212.15.19/live/test_history/playlist.m3u8
 历史频道,http://88.212.15.19/live/history_hun/index.m3u8
 
@@ -163,13 +160,14 @@ CCTV-4国际,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV-4美洲,https://stream1.freetv.fun/42076cf31ff4aa94aac8fe8c9c0637340d1774f8c14ad89a4c2020335dff968c.ctv
 CCTV-4欧洲,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN,https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
 
 📻数字频道,#genre#
 CCTV-戏曲,http://120.40.39.246:352/newlive/live/hls/12/live.m3u8
 CCTV-戏曲,http://74.91.26.218:82/live/cctv11hd.m3u8
-CCTV-4K,http://198.204.240.250:82/live/cctv4k.m3u8
+CCTV-4K,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
 CCTV-8K,http://192.151.150.154/live/cctv8k.m3u8
 
 🎵音乐频道,#genre#
