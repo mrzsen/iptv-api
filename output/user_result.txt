@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-31 03:01:32,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
+2026-11-01 03:00:53,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
 
 📺央视频道,#genre#
 CCTV-1,https://stream1.freetv.fun/995b83478c4c70b15ba27c4a49a23df6f859abbc68948a118e5734a8f1c1c1db.m3u8
